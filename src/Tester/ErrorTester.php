@@ -1,6 +1,6 @@
 <?php
 
-namespace Rmiller\ErrorExtension\Tester;
+namespace RMiller\ErrorExtension\Tester;
 
 use Behat\Testwork\Environment\Environment;
 use Behat\Testwork\Output\Printer\OutputPrinter;
